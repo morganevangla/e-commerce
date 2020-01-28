@@ -1,0 +1,81 @@
+/* css slidewine */
+
+
+figure{
+  background-color: white;
+  margin: 0 !important;
+  display: block; 
+
+}
+
+figure img {
+  position: relative; 
+  margin-left:25% !important;
+  
+}
+
+ 
+ .desc {
+  position: absolute;
+  bottom: 10px;
+background-color: rgba(0, 0, 0, 0.5);
+color:white;
+  margin: 1%;
+  padding: 2%;
+  
+}
+
+#desc{
+	display: none;
+}
+
+figure:hover #desc {
+  display: block; 
+
+}
+
+/* css slidehome */
+
+.react-multi-carousel-list{
+  margin-top: 1% !important ;
+  margin-bottom: 2% !important ;
+  margin: auto;
+  background-color: white;
+    box-shadow: 8px 8px 8px 8px black;
+    border-radius: 20px;
+}
+
+.divslide{
+  display: flex;
+
+}
+ 
+ .desc-home {
+float: right;
+text-align: center;
+padding-left: 6%;
+padding-right: 6%;
+background-color: rgb(209, 209, 209);
+
+}
+
+.content-desc{
+  margin-top: 10%;
+}
+
+.btn-slide   {
+  padding-left: 35px;
+  margin: auto;
+  justify-content: center;
+  bottom: 1%;
+  position: fixed;
+ 
+  
+
+}
+
+.btn-slidehome a{
+  padding: 0 !important;
+  color: black !important;
+
+}

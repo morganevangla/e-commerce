@@ -1,0 +1,72 @@
+.navProfile
+{
+    display: flex;
+    list-style-type: none;
+    margin: auto;
+    border-top: solid 2px black;
+    border-bottom: solid 2px black;
+    padding: 20px;
+  
+}
+.detailsnav
+{
+    padding: 20px;
+    color: #73150D;
+}
+.infoPerso
+{
+    margin-top: 2em;
+    border: solid 2px black;
+    padding: 20px;
+}
+.histAchats
+{
+    margin-top: 2em;
+    border: solid 2px black;
+    padding: 20px;
+}
+.btn-contact
+{
+    background-color: "#A61717";
+    margin: auto;
+    text-align: center;
+}
+.btn-cont
+{
+    padding-right: 40px !important;
+}
+
+.valModif:hover{
+    background-color: rgba(115, 21, 13, 0.5) !important;
+}
+.valModif{
+    margin-top: 4em;
+    color: rgb(115, 21, 13) !important;
+    border-color: rgb(115, 21, 13) !important;
+}
+.ModifElement{
+    margin-top: 1.5em;
+}
+.titre {
+    margin: auto;
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 15px;
+}
+.modifinfoperso{
+    margin: auto;
+    text-align: center;
+    padding-top: 10px;
+    
+}
+.contactmail:hover{
+    background-color: rgba(115, 21, 13, 0.5) !important;
+}
+.contactmail{
+    color: rgb(115, 21, 13) !important;
+    border-color: rgb(115, 21, 13) !important;
+}
+.infofofo
+{
+    border-right: solid black 1px;
+}

@@ -1,0 +1,11 @@
+.flex-column{
+    display: inline-flex;
+    width: 100px;
+    margin-left: auto;
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+
+

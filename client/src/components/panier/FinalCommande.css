@@ -1,0 +1,50 @@
+.delivery{
+    padding-left: 47px;
+    padding-right: 10px;
+    padding-top: 50px;
+    
+}
+
+.ToggleButton{
+    width: 50%;
+}
+
+.payement{
+    padding-left: 47px;
+}
+
+.mt-2{
+    width: 100px;
+}
+
+.wine{
+    width: 100%;
+}
+
+.add{
+    margin-left: 30px;
+}
+
+.selection{
+    padding-left: 30px;
+}
+
+.validation{
+    color: #A6261B !important;
+    border-color: #73150D !important;
+}
+
+.validation:hover{
+    background-color: #73150D !important;
+    color: white !important;
+}
+
+.final-step-order{
+    color: #A6261B !important;
+    border-color: #73150D !important;
+}
+
+.final-step-order:hover{
+    background-color: #73150D !important;
+    color: white !important;
+}

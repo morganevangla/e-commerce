@@ -1,0 +1,59 @@
+body{
+    background-color: #D4C7B3;
+}
+
+/* VOTRE PANIER + ETAT PANIER */
+#cart{
+    width: 100%;
+    margin: 30px;
+}
+
+#form{
+    width: 100%;
+}
+
+#empty-cart{
+    padding-left: 100px;
+}
+/* --------------------------- */
+
+.pif{
+    height: 150px;
+}
+
+table{
+    width: 100%;
+}
+
+thead{
+    margin: 30px;
+}
+
+tbody{
+
+}
+
+th{
+    background-color:#73150D;
+    color: white;
+    padding: 15px;
+}
+
+td{
+    padding: 25px;
+}
+/* --------------------------- */
+
+#finalisation{
+    color: #A6261B !important;
+    border-color: #73150D !important;
+}
+
+#finalisation:hover{
+    background-color: #73150D !important;
+    color: white !important;
+}
+
+
+
+
