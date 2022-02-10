@@ -18,7 +18,7 @@
     "bootswatch": "^4.4.1",
     "mdbreact": "^4.24.0",
     "muicss": "^0.10.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "nw-react-slider": "^2.0.1",
     "pure-react-carousel": "^1.24.1",
     "react": "^16.12.0",
